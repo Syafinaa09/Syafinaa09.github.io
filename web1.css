@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+    margin: 0;
+    font-family: Arial, sans-serif; 
+    background-color: #F0BC05;
+}
+.container {
+    display: flex;
+    align-items: center; 
+}
+.logo {
+    width: 200px; 
+    height: auto;
+    margin-right: 0px; 
+}
+.text {
+    font-size: 30px; 
+    color: #000000; 
+}
+
+.text{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
